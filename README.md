@@ -11,7 +11,7 @@ Source: https://www.folj.com/puzzles/very-difficult-analytical-puzzles.htm
 
 Who leaves and on which day?
 
-**Bonus question:** This is probably much harder than the question itself. What is the relevance of the orcale? i.e., "Everyone can already see that the are blue eyes".
+**Bonus question:** This is probably much harder than the question itself. What is the relevance of the orcale? i.e., "But everyone can already see that there are blue eyes".
 
 Source: https://xkcd.com/blue_eyes.html
 
