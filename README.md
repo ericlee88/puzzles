@@ -20,7 +20,7 @@ Source: https://xkcd.com/blue_eyes.html
 
 Source missing.
 
-There are 100 prinsoners, and they will go in a room and each will put on a hat randomly numbered 1 to 100 (with duplicates). They will be able to see other prisoners' hats, but cannot communicate. If any prisoner guesses their own hat's number, everyone goes free; everyone is executed if no one guesses correctly. They can convene and come up with a strategy prior to the game. What is the best strategy to survive?
+There are 100 prisoners, and they will go in a room and each will put on a hat randomly numbered 1 to 100 (with duplicates). They will be able to see other prisoners' hats, but cannot communicate. If any prisoner guesses their own hat's number, everyone goes free; everyone is executed if no one guesses correctly. They can convene and come up with a strategy prior to the game. What is the best strategy to survive?
 
 <details>
   <summary>Solution and explaination</summary>
